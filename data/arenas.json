@@ -104,16 +104,16 @@
   {
     "number": 6,
     "name": "Builder's Workshop",
-    "victoryGold": 14,
+    "victoryGold": 1400,
     "minTrophies": 1700,
     "clan": {
       "donate": {
         "common": 4,
-        "rare": 1
+        "rare": 8
       },
       "request": {
-        "common": 20,
-        "rare": 2
+        "common": 120,
+        "rare": 25
       }
     },
     "order":6
@@ -121,16 +121,16 @@
   {
     "number": 7,
     "name": "Royal Arena",
-    "victoryGold": 15,
+    "victoryGold": 1500,
     "minTrophies": 2000,
     "clan": {
       "donate": {
         "common": 6,
-        "rare": 1
+        "rare": 10
       },
       "request": {
-        "common": 30,
-        "rare": 3
+        "common": 150,
+        "rare": 30
       }
     },
     "order":7
@@ -138,16 +138,16 @@
   {
     "number": 8,
     "name": "Frozen Peak",
-    "victoryGold": 16,
+    "victoryGold": 1600,
     "minTrophies": 2300,
     "clan": {
       "donate": {
-        "common": 6,
-        "rare": 1
+        "common": 2,
+        "rare": 5
       },
       "request": {
-        "common": 30,
-        "rare": 3
+        "common": 300,
+        "rare": 50
       }
     },
     "order":8
@@ -155,16 +155,16 @@
   {
     "number": 9,
     "name": "Jungle Arena",
-    "victoryGold": 20,
+    "victoryGold": 2000,
     "minTrophies": 2600,
     "clan": {
       "donate": {
-        "common": 6,
-        "rare": 1
+        "common": 1,
+        "rare": 7
       },
       "request": {
-        "common": 30,
-        "rare": 3
+        "common": 200,
+        "rare": 50
       }
     },
     "order":9
@@ -180,8 +180,8 @@
         "rare": 1
       },
       "request": {
-        "common": 40,
-        "rare": 4
+        "common": 100,
+        "rare": 10
       }
     },
     "order":10
