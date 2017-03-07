@@ -543,7 +543,7 @@
     "type": "Troop",
     "name": "Electro Wizard",
     "description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
-    "arena": 7,
+    "arena": 6,
     "elixirCost": 4,
     "order":60
   },
@@ -552,7 +552,7 @@
     "type": "Troop",
     "name": "Princess",
     "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
-    "arena": 7,
+    "arena": 6,
     "elixirCost": 3,
     "order":61
   },
@@ -561,7 +561,7 @@
     "type": "Troop",
     "name": "Ice Spirit",
     "description": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
-    "arena": 8,
+    "arena": 6.
     "elixirCost": 1,
     "order":62
   },
@@ -570,7 +570,7 @@
     "type": "Troop",
     "name": "Ice Golem",
     "description": "He's though, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
-    "arena": 8,
+    "arena": 6.
     "elixirCost": 2,
     "order":63
   },
@@ -579,7 +579,7 @@
     "type": "Spell",
     "name": "Clone",
     "description": "Doubles your troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
-    "arena": 8,
+    "arena": 6.
     "elixirCost": 3,
     "order":64
   },
@@ -588,7 +588,7 @@
     "type": "Troop",
     "name": "Bowler",
     "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
-    "arena": 8,
+    "arena": 6.
     "elixirCost": 5,
     "order":65
   },
@@ -597,7 +597,7 @@
     "type": "Troop",
     "name": "Lumberjack",
     "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he dies.",
-    "arena": 8,
+    "arena": 6,
     "elixirCost": 4,
     "order":66
   },
@@ -606,7 +606,7 @@
     "type": "Troop",
     "name": "Goblin Gang",
     "description": "Spawns six Goblins - three with knives, three with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
-    "arena": 9,
+    "arena": 6,
     "elixirCost": 3,
     "order":67
   },
@@ -615,7 +615,7 @@
     "type": "Troop",
     "name": "Dart Goblin",
     "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouth full of gum? Years of didgeridoo lessons.",
-    "arena": 9,
+    "arena": 6.
     "elixirCost": 3,
     "order":68
   },
@@ -624,7 +624,7 @@
     "type": "Troop",
     "name": "Executioner",
     "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose his arm.",
-    "arena": 9,
+    "arena": 6,
     "elixirCost": 5,
     "order":69
   }
